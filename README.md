@@ -43,9 +43,9 @@ The dataset chosen for this mini-project is Combined Cycle Power Plant. The data
 
 # Predict the taxi fare amount in New York city using Dask-ML.
 Implementation of Linear Regression on a Large Dataset Using Dask Library.
- *understand how dask handles large dataset over pandas dataframe
- *perform exploratory data analysis on a large dataset (2 Million rows) using dask
- *implement linear regression model using dask library and make predictions.
+- understand how dask handles large dataset over pandas dataframe
+- perform exploratory data analysis on a large dataset (2 Million rows) using dask
+- implement linear regression model using dask library and make predictions.
 
 ### And a nested list:
 
